@@ -33,6 +33,6 @@ def fight(stam):
 print ("A threatening alien wants to fight you!\n")
 alive = fight(stamina)
 if alive ==True:
-    print ("\nThe alien lives on, and you, sadly, do not.\n")
+    print ("\nThe alien lives on, and you, sadly, do not this.\n")
 else:
     print ("\nThe alien has been vanquished. Good work!\n")
